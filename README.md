@@ -1,8 +1,8 @@
-![GitHub all releases](https://img.shields.io/github/downloads/LinuxMeow/cpuminer-remeowed/total)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/LinuxMeow/cpuminer-remeowed?style=flat-square)
+![GitHub all releases](https://img.shields.io/github/downloads/LinuxMeow/cpuminer-remeowed/total)(https://github.com/LinuxMeow/cpuminer-remeowed/releases)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/LinuxMeow/cpuminer-remeowed?style=flat-square)(https://github.com/LinuxMeow/cpuminer-remeowed/tags)
 ![GitHub tag checks state](https://img.shields.io/github/checks-status/LinuxMeow/cpuminer-remeowed/v0.1.0?style=flat-square)
 ![GitHub Release Date](https://img.shields.io/github/release-date/LinuxMeow/cpuminer-remeowed?style=flat-square)
-![GitHub](https://img.shields.io/github/license/LinuxMeow/cpuminer-remeowed?style=flat-square)
+![GitHub](https://img.shields.io/github/license/LinuxMeow/cpuminer-remeowed?style=flat-square)(https://github.com/LinuxMeow/cpuminer-remeowed/blob/master/LICENSE)
 ![GitHub Repo stars](https://img.shields.io/github/stars/LinuxMeow/cpuminer-remeowed?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/LinuxMeow/cpuminer-remeowed?style=flat-square)
 
