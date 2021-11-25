@@ -1,3 +1,11 @@
+![GitHub all releases](https://img.shields.io/github/downloads/LinuxMeow/cpuminer-remeowed/total)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/LinuxMeow/cpuminer-remeowed?style=flat-square)
+![GitHub tag checks state](https://img.shields.io/github/checks-status/LinuxMeow/cpuminer-remeowed/v0.1.0?style=flat-square)
+![GitHub Release Date](https://img.shields.io/github/release-date/LinuxMeow/cpuminer-remeowed?style=flat-square)
+![GitHub](https://img.shields.io/github/license/LinuxMeow/cpuminer-remeowed?style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/LinuxMeow/cpuminer-remeowed?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/LinuxMeow/cpuminer-remeowed?style=flat-square)
+
 ## What is cpuminer-remeowed?
 
 cpuminer-remeowed is a fork of cpuminer-gr by WyvernTKC which is a fork of cpuminer-opt by Jay D Dee which is a fork of cpuminer-multi with optimizations
